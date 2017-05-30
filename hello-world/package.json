@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ajahne/webpack-examples.git"
+  },
+  "scripts": {
+    "build": "webpack"
   }
 }
