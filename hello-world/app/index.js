@@ -4,7 +4,7 @@ function component() {
   var element = document.createElement('div');
 
   //loadash is required for this next line to work
-  element.innerHTML = _.join(['Hello','webpack'], ' ');
+  element.innerHTML = _.join(['Hello','Webpack,', 'we have bundled!'], ' ');
 
   return element;
 }
