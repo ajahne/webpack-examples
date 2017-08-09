@@ -1,8 +1,8 @@
 import _ from 'lodash';
 import log from './logger';
 
-function component() {
-  var element = document.createElement('div');
+let component = () => {
+  let element = document.createElement('div');
 
   //loadash is required for this next line to work
   element.innerHTML = _.join(['Hello','Webpack,', 'we have bundled!'], ' ');
