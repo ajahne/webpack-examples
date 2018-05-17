@@ -1,7 +1,7 @@
 # Hello Webpack
 
 ## Tutorial link
-https://webpack.js.org/guides/get-started/
+https://webpack.js.org/guides/getting-started/
 
 ## How to run the example
 ```
